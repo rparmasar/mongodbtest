@@ -1,0 +1,11 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/rparmasar/mongodbtest.git",
+  "author": "RParmasar <rajeev@parmasar.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
